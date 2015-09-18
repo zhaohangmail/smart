@@ -1,0 +1,125 @@
+/* 圆角 */
+.radius-none{border-radius:0;}
+.radius-small{border-radius:2px;}
+.radius{border-radius:4px;}
+.radius-big{border-radius:6px;}
+.radius-rounded{border-radius:2em;padding-left:1em;padding-right:1em;}
+.radius-circle{border-radius:50%;}
+
+/* margin间隔 */
+.margin-large{margin:30px;}
+.margin-large-top{margin-top:30px;}
+.margin-large-right{margin-right:30px;}
+.margin-large-bottom{margin-bottom:30px;}
+.margin-large-left{margin-left:30px;}
+.margin-big{margin:20px;}
+.margin-big-top{margin-top:20px;}
+.margin-big-right{margin-right:20px;}
+.margin-big-bottom{margin-bottom:20px;}
+.margin-big-left{margin-left:20px;}
+.margin{margin:10px !important;clear:both;}
+.margin-top{margin-top:10px;}
+.margin-right{margin-right:10px;}
+.margin-bottom{margin-bottom:10px;}
+.margin-left{margin-left:10px;}
+.margin-small{margin:5px;}
+.margin-small-top{margin-top:5px;}
+.margin-small-right{margin-right:5px;}
+.margin-small-bottom{margin-bottom:5px;}
+.margin-small-left{margin-left:5px;}
+.margin-little{margin:2px;}
+.margin-little-top{margin-top:2px;}
+.margin-little-right{margin-right:2px;}
+.margin-little-bottom{margin-bottom:2px;}
+.margin-little-left{margin-left:2px;}
+
+/* -margin间隔 */
+.-margin-large{margin:-30px;}
+.-margin-large-top{margin-top:-30px;}
+.-margin-large-right{margin-right:-30px;}
+.-margin-large-bottom{margin-bottom:-30px;}
+.-margin-large-left{margin-left:-30px;}
+.-margin-big{margin:-20px;}
+.-margin-big-top{margin-top:-20px;}
+.-margin-big-right{margin-right:-20px;}
+.-margin-big-bottom{margin-bottom:-20px;}
+.-margin-big-left{margin-left:-20px;}
+.-margin{margin:-10px !important;clear:both;}
+.-margin-top{margin-top:-10px;}
+.-margin-right{margin-right:-10px;}
+.-margin-bottom{margin-bottom:-10px;}
+.-margin-left{margin-left:-10px;}
+.-margin-small{margin:-5px;}
+.-margin-small-top{margin-top:-5px;}
+.-margin-small-right{margin-right:-5px;}
+.-margin-small-bottom{margin-bottom:-5px;}
+.-margin-small-left{margin-left:-5px;}
+.-margin-little{margin:-2px;}
+.-margin-little-top{margin-top:-2px;}
+.-margin-little-right{margin-right:-2px;}
+.-margin-little-bottom{margin-bottom:-2px;}
+.-margin-little-left{margin-left:-2px;}
+
+/* padding间隔 */
+.padding-large{padding:30px;}
+.padding-large-top{padding-top:30px;}
+.padding-large-right{padding-right:30px;}
+.padding-large-bottom{padding-bottom:30px;}
+.padding-large-left{padding-left:30px;}
+.padding-big{padding:20px;}
+.padding-big-top{padding-top:20px;}
+.padding-big-right{padding-right:20px;}
+.padding-big-bottom{padding-bottom:20px;}
+.padding-big-left{padding-left:20px;}
+.padding{padding:10px;}
+.padding-top{padding-top:10px;}
+.padding-right{padding-right:10px;}
+.padding-bottom{padding-bottom:10px;}
+.padding-left{padding-left:10px;}
+.padding-small{padding:5px;}
+.padding-small-top{padding-top:5px;}
+.padding-small-right{padding-right:5px;}
+.padding-small-bottom{padding-bottom:5px;}
+.padding-small-left{padding-left:5px;}
+.padding-little{padding:2px;}
+.padding-little-top{padding-top:2px;}
+.padding-little-right{padding-right:2px;}
+.padding-little-bottom{padding-bottom:2px;}
+.padding-little-left{padding-left:2px;}
+
+/* -padding间隔 */
+.-padding-large{padding:-30px;}
+.-padding-large-top{padding-top:-30px;}
+.-padding-large-right{padding-right:-30px;}
+.-padding-large-bottom{padding-bottom:-30px;}
+.-padding-large-left{padding-left:-30px;}
+.-padding-big{padding:-20px;}
+.-padding-big-top{padding-top:-20px;}
+.-padding-big-right{padding-right:-20px;}
+.-padding-big-bottom{padding-bottom:-20px;}
+.-padding-big-left{padding-left:-20px;}
+.-padding{padding:-10px;}
+.-padding-top{padding-top:-10px;}
+.-padding-right{padding-right:-10px;}
+.-padding-bottom{padding-bottom:-10px;}
+.-padding-left{padding-left:-10px;}
+.-padding-small{padding:-5px;}
+.-padding-small-top{padding-top:-5px;}
+.-padding-small-right{padding-right:-5px;}
+.-padding-small-bottom{padding-bottom:-5px;}
+.-padding-small-left{padding-left:-5px;}
+.-padding-little{padding:-2px;}
+.-padding-little-top{padding-top:-2px;}
+.-padding-little-right{padding-right:-2px;}
+.-padding-little-bottom{padding-bottom:-2px;}
+.-padding-little-left{padding-left:-2px;}
+
+/* 旋转动画 */
+.rotate,.rotate-hover{-webkit-animation:2s infinite linear;-moz-animation:2s infinite linear;-ms-animation:2s infinite linear;animation:2s infinite linear;}
+
+/* 背景色 */
+.bg-main{background-color:#0a8;} /*背景-主色*/
+.bg-sub{background-color:#0ae;} /*背景-辅色*/
+.bg-back{background-color:#F5F5F5;} /*背景-背景色*/
+.bg-mix{background-color:#aed;} /*背景-融合色*/
+.bg-dot{background-color:#e33;} /*背景-点缀色*/
